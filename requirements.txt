@@ -1,0 +1,4 @@
+pyspark==2.4.7
+numpy==1.19.2
+pandas==1.1.1
+matpotlib==3.3.2
